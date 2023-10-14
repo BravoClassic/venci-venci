@@ -1,0 +1,24 @@
+#root {
+  width: 100%;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+  height: 100vh;
+
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.ban-button{
+  background-color: rgb(201, 73, 50);
+  box-shadow: 2px 2px 0px 0px rgb(227, 77, 51);
+  margin: 1rem 0;
+}
